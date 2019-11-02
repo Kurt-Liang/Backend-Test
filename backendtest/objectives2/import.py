@@ -25,7 +25,7 @@ class DB():
 
 if __name__ == '__main__':
 	mylist = get_list()
-	with DB(user='root', password='7788aswxdec', db='backendtest') as db:
+	with DB(user='root', password='password', db='backendtest') as db:
 		db.execute("drop table if exists test")
 		sql = """create table test(
 		    id int primary key auto_increment,
