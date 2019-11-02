@@ -9,7 +9,7 @@ objectives1
 2. 結果截屏至: StressTestReport.PDF  
 
 objectives2
-1.對pcap解析  
+1. 對pcap解析  
     1-1. 用TShark先將所有資料轉成output.csv  
         1-1-1. 原本使用python-scapy解析，但是記憶體不足導致python被系統直接關閉，只好增加Swap解決  
         1-1-2. 解決後因為解析速度太慢才換成使用TShark  
