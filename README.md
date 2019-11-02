@@ -1,6 +1,6 @@
 # Backend-Test
 
-objectives1  
+## objectives1
 1. 使用sysbench壓測mysql  
     1-1. oltp測試  
     1-2. innodb  
@@ -8,23 +8,23 @@ objectives1
     1-4. time=120s
 2. 結果截屏至: StressTestReport.PDF  
 
-objectives2
+## objectives2
 1. 對pcap解析  
     1-1. 用TShark先將所有資料轉成output.csv  
-            1-1-1. 原本使用python-scapy解析，但是記憶體不足導致python被系統直接關閉，只好增加Swap解決  
-            1-1-2. 解決後因為解析速度太慢才換成使用TShark  
+            * 原本使用python-scapy解析，但是記憶體不足導致python被系統直接關閉，只好增加Swap解決  
+            * 解決後因為解析速度太慢才換成使用TShark  
     1-2. 使用python獲取output.csv裡的資料，將需要的資料用pymysql創建test表，最後把資料輸入至test表  
-            1-2-1. backendtest庫(事先創建好)  
-            1-2-2. test表  
-             		id int primary key auto_increment  
-	     		Date char(10)  
-	     		time char(10)  
-	    		usec char(10)  
-	    		SourceIP char(30)  
-	     		SourcePort char(10)  
-	     		DestinationIP char(30)  
-	     		DestinationPort char(10)  
-	     		FQDN char(60)  
+            * backendtest庫(事先創建好)  
+            * test表  
+	        * id int primary key auto_increment
+                * Date char(10)  
+                * time char(10)  
+                * usec char(10)  
+                * SourceIP char(30)  
+                * SourcePort char(10)  
+                * DestinationIP char(30)  
+                * DestinationPort char(10)  
+                * FQDN char(60)  
 
 2. 寫一個CLI menu程式  
     2-1. main.py為主程式  
@@ -33,7 +33,7 @@ objectives2
         2-1-3. 輸出的資料依照Date->time->usec按升序排序，並以50單位為一頁  
         2-1-4. 實現換頁功能還有結束時能回到show_menu()  
 
-objectives3
+## objectives3
 1. 使用nginx架設網站伺服器  
 2. 寫一個PHP檔  
     2-1. 實現PHP連接MySQL  
