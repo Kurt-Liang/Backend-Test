@@ -1,0 +1,300 @@
+1,20190821,0.000000,10.254.79.197,->,101.14.148.127,DNS,114,Standard query,0x255d,AAAA,configuration.apple.com.akadns.net
+2,20190821,0.000003,10.254.79.197,->,101.14.148.127,DNS,118,Standard query response,0x1ce6,CNAME,kg.connect.garena.com
+3,20190821,0.000004,211.78.222.179,->,101.13.116.240,DNS,150,Standard query response,0x5839,CNAME,dual-a-0001.a-msedge.net
+4,20190821,0.000005,10.254.79.197,->,101.14.148.127,DNS,122,Standard query response,0xf02f,A,aaa.com
+5,20190821,0.000006,10.254.79.197,->,101.14.148.127,DNS,146,Standard query response,0x9770,AAAA,aaa.com
+6,20190821,0.000006,101.13.116.240,->,211.78.222.179,DNS,92,Standard query,0x5839,A,bat-bing-com.a-0001.a-msedge.net
+7,20190821,0.000009,10.254.79.197,->,101.14.148.127,DNS,93,Standard query,0x972d,AAAA,lan-o.line.me
+8,20190821,0.000021,10.254.79.197,->,101.14.148.127,DNS,252,Standard query response,0x255d,CNAME,configuration.apple.com.edgekey.net
+9,20190821,0.000022,10.254.79.197,->,101.14.148.127,DNS,95,Standard query,0xdafa,A,zz.bdstatic.com
+10,20190821,0.000025,10.254.79.197,->,101.14.148.127,DNS,95,Standard query,0xbaff,AAAA,zz.bdstatic.com
+11,20190821,0.000026,10.254.79.197,->,101.14.148.127,DNS,160,Standard query response,0x972d,A,aaa.com
+12,20190821,0.000029,10.254.79.197,->,175.96.66.252,DNS,91,Standard query response,0x57a6,A,aaa.com
+13,20190821,0.000029,10.254.79.197,->,101.14.148.127,DNS,112,Standard query,0x10c6,A,instagram.ftpe11-1.fna.fbcdn.net
+14,20190821,0.000036,10.254.79.197,->,101.14.148.127,DNS,112,Standard query,0x5466,AAAA,instagram.ftpe11-1.fna.fbcdn.net
+15,20190821,0.000039,211.78.222.180,->,123.193.128.119,DNS,177,Standard query response,0xa60b,CNAME,dlied1.tc.qq.com
+16,20190821,0.000039,101.9.69.58,->,211.78.222.179,DNS,81,Standard query,0x884f,A,cdp.cloud.unity3d.com
+17,20190821,0.000041,101.10.6.251,->,211.78.222.180,DNS,82,Standard query,0xb164,A,mqtt-mini.facebook.com
+18,20190821,0.000052,101.9.169.93,->,10.254.79.197,DNS,79,Standard query,0xa418,AAAA,play.googleapis.com
+19,20190821,0.000054,10.254.79.197,->,101.14.148.127,DNS,139,Standard query response,0xdafa,CNAME,sslzz.jomodns.com
+20,20190821,0.000055,10.254.79.197,->,101.14.148.127,DNS,186,Standard query response,0xbaff,CNAME,sslzz.jomodns.com
+21,20190821,0.000056,10.254.79.197,->,101.14.148.127,DNS,199,Standard query response,0xb62c,A,aaa.com
+22,20190821,0.000056,101.15.250.141,->,10.254.79.196,DNS,79,Standard query,0x9fae,A,static.xx.fbcdn.net
+23,20190821,0.000070,101.9.65.145,->,211.78.222.180,DNS,78,Standard query,0x8fd4,A,www.googleapis.com
+24,20190821,0.000077,10.254.79.197,->,101.9.169.93,DNS,141,Standard query response,0xa418,CNAME,googleapis.l.google.com
+25,20190821,0.000079,101.15.210.208,->,10.254.79.197,DNS,86,Standard query,0xd84b,A,redirector.googlevideo.com
+26,20190821,0.000082,101.15.193.189,->,10.254.79.196,DNS,85,			Standard query,0x5d6a,AAAA,lh3.googleusercontent.com
+27,20190821,0.000085,118.233.212.77,->,211.78.222.179,DNS,80,		Standard query,0x2cb7,A,csm.hk.as.criteo.net
+28,20190821,0.000089,10.254.79.197,->,101.15.210.208,DNS,102,		Standard query response,0xd84b,A,172.217.24.14
+29,20190821,0.000091,10.254.79.197,->,101.14.148.127,DNS,140,Standard query response,0x5466,AAAA,aaa.com
+30,20190821,0.000091,211.78.222.179,->,101.9.69.58,DNS,214,Standard query response,0x884f,CNAME,prd-lender.cdp.internal.unity3d.com
+31,20190821,0.000092,10.254.79.197,->,101.14.148.127,DNS,128,Standard query response,0x10c6,A,175.96.17.33
+32,20190821,0.000093,10.254.79.197,->,17.253.206.8,DNS,92,Standard query,0x130e,AAAA,captive.g.aaplimg.com
+33,20190821,0.000096,10.254.79.196,->,101.15.250.141,DNS,118,Standard query response,0x9fae,CNAME,scontent.xx.fbcdn.net
+34,20190821,0.000096,211.78.222.180,->,101.10.6.251,DNS,127,Standard query response,0xb164,CNAME,mqtt-mini.c10r.facebook.com
+35,20190821,0.000097,123.193.43.21,->,211.78.222.179,DNS,117,Standard query,0x889e,SRV,_gre._tcp.gretunnel.com.dynamic.kbronet.com.tw
+36,20190821,0.000100,10.254.79.196,->,101.15.193.189,DNS,142,Standard query response,0x5d6a,CNAME,googlehosted.l.googleusercontent.com
+37,20190821,0.000102,211.78.222.179,->,101.13.116.240,DNS,149,Standard query response,0xad22,A,119.161.16.11
+38,20190821,0.000103,118.233.212.77,->,211.78.222.180,DNS,80,Standard query,0x2cb7,A,csm.hk.as.criteo.net
+39,20190821,0.000106,101.13.116.240,->,211.78.222.179,DNS,85,Standard query,0xad22,A,edge.gycpi.b.yahoodns.net
+40,20190821,0.000108,118.233.212.77,->,211.78.222.180,DNS,80,Standard query,0x2cb7,A,csm.hk.as.criteo.net
+41,20190821,0.000111,211.78.222.180,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+42,20190821,0.000112,211.78.222.180,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+43,20190821,0.000121,101.9.69.148,->,211.78.222.179,DNS,81,Standard query,0x36a5,A,cdp.cloud.unity3d.com
+44,20190821,0.000126,101.13.197.9,->,10.254.79.197,DNS,87,Standard query,0x8ef4,A,googleads.g.doubleclick.net
+45,20190821,0.000129,211.78.222.180,->,101.9.65.145,DNS,192,Standard query response,0x8fd4,CNAME,googleapis.l.google.com
+46,20190821,0.000131,101.12.42.99,->,10.254.79.196,DNS,71,Standard query,0x19ca,A,rpc.znly.co
+47,20190821,0.000134,101.12.42.99,->,10.254.79.196,DNS,71,Standard query,0x7971,AAAA,rpc.znly.co
+48,20190821,0.000137,10.254.79.196,->,101.12.42.99,DNS,164,Standard query response,0x7971,A,aaa.com
+49,20190821,0.000139,10.254.79.196,->,101.12.42.99,DNS,87,Standard query response,0x19ca,A,35.225.143.169
+50,20190821,0.000140,211.78.222.179,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+51,20190821,0.000141,49.158.9.119,->,211.78.222.179,DNS,72,Standard query,0x1c1d,A,bt.cnscg.com
+52,20190821,0.000144,123.194.229.202,->,211.78.222.179,DNS,80,Standard query,0x4716,A,hub5emutr.sandai.net
+53,20190821,0.000148,123.194.229.202,->,211.78.222.179,DNS,80,Standard query,0x4716,A,hub5emutr.sandai.net
+54,20190821,0.000152,101.12.0.10,->,10.254.79.197,DNS,80,Standard query,0xe2dd,A,sns-paopao.iqiyi.com
+55,20190821,0.000155,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0x3816,AAAA,mweb1.scsb.com.tw
+56,20190821,0.000159,101.12.42.249,->,10.254.79.197,DNS,79,Standard query,0x0502,A,pubgm.helpshift.com
+57,20190821,0.000162,211.78.222.179,->,101.9.69.148,DNS,214,Standard query response,0x36a5,CNAME,prd-lender.cdp.internal.unity3d.com
+58,20190821,0.000163,10.254.79.197,->,101.13.197.9,DNS,128,Standard query response,0x8ef4,CNAME,pagead46.l.doubleclick.net
+59,20190821,0.000164,10.254.79.197,->,101.14.148.127,DNS,107,Standard query,0xa966,A,instagram.c10r.facebook.com
+60,20190821,0.000168,14.215.150.15,->,10.254.79.197,DNS,208,Standard query response,0xfea6,CNAME,log-reyun-com-1729828035.cn-north-1.elb.amazonaws.com.cn
+61,20190821,0.000170,211.78.222.179,->,49.158.9.119,DNS,88,Standard query response,0x1c1d,A,39.98.187.148
+62,20190821,0.000171,10.254.79.197,->,101.12.0.10,DNS,96,Standard query response,0xe2dd,A,118.26.32.14
+63,20190821,0.000172,10.254.79.197,->,101.12.42.249,DNS,207,Standard query response,0x0502,A,54.215.136.239
+64,20190821,0.000186,101.9.233.5,->,10.254.79.196,DNS,74,Standard query,0xaea0,AAAA,www.google.com
+65,20190821,0.000197,10.254.79.197,->,101.12.3.39,DNS,146,Standard query response,0xd6cd,A,www.google.com
+66,20190821,0.000203,10.254.79.197,->,101.14.148.127,DNS,205,Standard query response,0xe6d6,CNAME,im01-2-03.tw.juiker.net
+67,20190821,0.000205,106.1.229.132,->,211.78.222.179,DNS,75,Standard query,0x98fd,A,data.flurry.com
+68,20190821,0.000208,10.254.79.197,->,101.14.148.127,DNS,123,Standard query response,0xa966,A,31.13.87.52
+69,20190821,0.000209,10.254.79.196,->,101.9.233.5,DNS,102,Standard query response,0xaea0,AAAA,aaa.com
+70,20190821,0.000217,10.254.79.197,->,101.14.148.127,DNS,90,Standard query,0xd86a,A,kqhaheopbp
+71,20190821,0.000223,211.78.222.179,->,106.1.229.132,DNS,184,Standard query response,0x98fd,CNAME,flury-ycpi.gycpi.b.yahoodns.net
+72,20190821,0.000225,203.205.220.25,->,10.254.79.196,DNS,158,Standard query response,0x182f,A,aaa.com
+73,20190821,0.000226,10.254.79.197,->,101.14.148.127,DNS,91,Standard query,0x926c,A,bjgrweeaznw
+74,20190821,0.000229,10.254.79.197,->,101.14.148.127,DNS,165,Standard query response,0xd86a,A,aaa.com
+75,20190821,0.000235,211.78.222.180,->,180.176.69.191,DNS,219,Standard query response,0x7d1f,CNAME,gw.line.naver.jp
+76,20190821,0.000237,10.254.79.197,->,101.14.148.127,DNS,1276,Standard query response,0xcff8,A,aaa.com
+77,20190821,0.000238,101.9.83.152,->,211.78.222.180,DNS,77,Standard query,0x6616,A,fonts.gstatic.com
+78,20190821,0.000246,123.194.229.202,->,211.78.222.180,DNS,81,Standard query,0x4752,A,tracker.vanitycore.co
+79,20190821,0.000250,101.12.211.94,->,10.254.79.197,DNS,88,Standard query,0x7a9a,A,video.ftpe11-1.fna.fbcdn.net
+80,20190821,0.000253,123.194.229.202,->,211.78.222.180,DNS,81,Standard query,0x4752,A,tracker.vanitycore.co
+81,20190821,0.000256,180.176.69.191,->,211.78.222.180,DNS,76,Standard query,0x7d1f,A,ci.line-apps.com
+82,20190821,0.000259,211.78.222.180,->,115.165.217.156,DNS,103,Standard query response,0xe8c1,A,172.217.160.106
+83,20190821,0.000260,115.165.217.156,->,211.78.222.180,DNS,87,Standard query,0xe8c1,A,safebrowsing.googleapis.com
+84,20190821,0.000263,101.9.13.94,->,211.78.222.180,DNS,75,Standard query,0x75e0,A,www.gstatic.com
+85,20190821,0.000266,211.78.222.179,->,123.193.43.21,DNS,162,Standard query response,0x889e,A,aaa.com
+86,20190821,0.000270,175.96.67.55,->,10.254.79.197,DNS,81,Standard query,0x7797,A,csc.beap.bc.yahoo.com
+87,20190821,0.000275,10.254.79.197,->,101.12.211.94,DNS,104,Standard query response,0x7a9a,A,175.96.17.18
+88,20190821,0.000283,211.78.222.180,->,101.9.83.152,DNS,129,Standard query response,0x6616,CNAME,gstaticadssl.l.google.com
+89,20190821,0.000285,10.254.79.197,->,175.96.67.55,DNS,142,Standard query response,0x7797,A,aaa.com
+90,20190821,0.000287,101.9.98.114,->,211.78.222.179,DNS,85,Standard query,0x8d22,A,tpc.googlesyndication.com
+91,20190821,0.000290,211.78.222.180,->,101.9.13.94,DNS,91,Standard query response,0x75e0,A,172.217.27.131
+92,20190821,0.000296,103.224.200.121,->,211.78.222.180,DNS,91,Standard query,0x2d70,A,instagram.ftpe4-2.fna.fbcdn.net
+93,20190821,0.000300,123.194.229.202,->,211.78.222.180,DNS,78,Standard query,0xabac,A,tracker3.itzmx.com
+94,20190821,0.000302,49.158.9.119,->,211.78.222.180,DNS,72,Standard query,0x56fc,AAAA,bt.cnscg.com
+95,20190821,0.000319,10.254.79.197,->,101.14.148.127,DNS,100,Standard query,0x53b6,AAAA,is4-ssl.mzstatic.com
+96,20190821,0.000324,10.254.79.197,->,101.14.148.127,DNS,288,Standard query response,0x53b6,CNAME,is-ssl.mzstatic.com.itunes-apple.com.akadns.net
+97,20190821,0.000325,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0x5e94,AAAA,pic4.iqiyipic.com
+98,20190821,0.000329,10.254.79.197,->,101.14.148.127,DNS,110,Standard query,0x4a62,AAAA,gs-loc.ls-apple.com.akadns.net
+99,20190821,0.000332,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0xa462,AAAA,pic0.iqiyipic.com
+100,20190821,0.000339,183.192.201.90,->,10.254.79.196,DNS,161,Standard query response,0xed86,A,103.49.212.242
+1,20190821,0.000000,10.254.79.197,->,101.14.148.127,DNS,114,Standard query,0x255d,AAAA,configuration.apple.com.akadns.net
+2,20190821,0.000003,10.254.79.197,->,101.14.148.127,DNS,118,Standard query response,0x1ce6,CNAME,kg.connect.garena.com
+3,20190821,0.000004,211.78.222.179,->,101.13.116.240,DNS,150,Standard query response,0x5839,CNAME,dual-a-0001.a-msedge.net
+4,20190821,0.000005,10.254.79.197,->,101.14.148.127,DNS,122,Standard query response,0xf02f,A,aaa.com
+5,20190821,0.000006,10.254.79.197,->,101.14.148.127,DNS,146,Standard query response,0x9770,AAAA,aaa.com
+6,20190821,0.000006,101.13.116.240,->,211.78.222.179,DNS,92,Standard query,0x5839,A,bat-bing-com.a-0001.a-msedge.net
+7,20190821,0.000009,10.254.79.197,->,101.14.148.127,DNS,93,Standard query,0x972d,AAAA,lan-o.line.me
+8,20190821,0.000021,10.254.79.197,->,101.14.148.127,DNS,252,Standard query response,0x255d,CNAME,configuration.apple.com.edgekey.net
+9,20190821,0.000022,10.254.79.197,->,101.14.148.127,DNS,95,Standard query,0xdafa,A,zz.bdstatic.com
+10,20190821,0.000025,10.254.79.197,->,101.14.148.127,DNS,95,Standard query,0xbaff,AAAA,zz.bdstatic.com
+11,20190821,0.000026,10.254.79.197,->,101.14.148.127,DNS,160,Standard query response,0x972d,A,aaa.com
+12,20190821,0.000029,10.254.79.197,->,175.96.66.252,DNS,91,Standard query response,0x57a6,A,aaa.com
+13,20190821,0.000029,10.254.79.197,->,101.14.148.127,DNS,112,Standard query,0x10c6,A,instagram.ftpe11-1.fna.fbcdn.net
+14,20190821,0.000036,10.254.79.197,->,101.14.148.127,DNS,112,Standard query,0x5466,AAAA,instagram.ftpe11-1.fna.fbcdn.net
+15,20190821,0.000039,211.78.222.180,->,123.193.128.119,DNS,177,Standard query response,0xa60b,CNAME,dlied1.tc.qq.com
+16,20190821,0.000039,101.9.69.58,->,211.78.222.179,DNS,81,Standard query,0x884f,A,cdp.cloud.unity3d.com
+17,20190821,0.000041,101.10.6.251,->,211.78.222.180,DNS,82,Standard query,0xb164,A,mqtt-mini.facebook.com
+18,20190821,0.000052,101.9.169.93,->,10.254.79.197,DNS,79,Standard query,0xa418,AAAA,play.googleapis.com
+19,20190821,0.000054,10.254.79.197,->,101.14.148.127,DNS,139,Standard query response,0xdafa,CNAME,sslzz.jomodns.com
+20,20190821,0.000055,10.254.79.197,->,101.14.148.127,DNS,186,Standard query response,0xbaff,CNAME,sslzz.jomodns.com
+21,20190821,0.000056,10.254.79.197,->,101.14.148.127,DNS,199,Standard query response,0xb62c,A,aaa.com
+22,20190821,0.000056,101.15.250.141,->,10.254.79.196,DNS,79,Standard query,0x9fae,A,static.xx.fbcdn.net
+23,20190821,0.000070,101.9.65.145,->,211.78.222.180,DNS,78,Standard query,0x8fd4,A,www.googleapis.com
+24,20190821,0.000077,10.254.79.197,->,101.9.169.93,DNS,141,Standard query response,0xa418,CNAME,googleapis.l.google.com
+25,20190821,0.000079,101.15.210.208,->,10.254.79.197,DNS,86,Standard query,0xd84b,A,redirector.googlevideo.com
+26,20190821,0.000082,101.15.193.189,->,10.254.79.196,DNS,85,			Standard query,0x5d6a,AAAA,lh3.googleusercontent.com
+27,20190821,0.000085,118.233.212.77,->,211.78.222.179,DNS,80,		Standard query,0x2cb7,A,csm.hk.as.criteo.net
+28,20190821,0.000089,10.254.79.197,->,101.15.210.208,DNS,102,		Standard query response,0xd84b,A,172.217.24.14
+29,20190821,0.000091,10.254.79.197,->,101.14.148.127,DNS,140,Standard query response,0x5466,AAAA,aaa.com
+30,20190821,0.000091,211.78.222.179,->,101.9.69.58,DNS,214,Standard query response,0x884f,CNAME,prd-lender.cdp.internal.unity3d.com
+31,20190821,0.000092,10.254.79.197,->,101.14.148.127,DNS,128,Standard query response,0x10c6,A,175.96.17.33
+32,20190821,0.000093,10.254.79.197,->,17.253.206.8,DNS,92,Standard query,0x130e,AAAA,captive.g.aaplimg.com
+33,20190821,0.000096,10.254.79.196,->,101.15.250.141,DNS,118,Standard query response,0x9fae,CNAME,scontent.xx.fbcdn.net
+34,20190821,0.000096,211.78.222.180,->,101.10.6.251,DNS,127,Standard query response,0xb164,CNAME,mqtt-mini.c10r.facebook.com
+35,20190821,0.000097,123.193.43.21,->,211.78.222.179,DNS,117,Standard query,0x889e,SRV,_gre._tcp.gretunnel.com.dynamic.kbronet.com.tw
+36,20190821,0.000100,10.254.79.196,->,101.15.193.189,DNS,142,Standard query response,0x5d6a,CNAME,googlehosted.l.googleusercontent.com
+37,20190821,0.000102,211.78.222.179,->,101.13.116.240,DNS,149,Standard query response,0xad22,A,119.161.16.11
+38,20190821,0.000103,118.233.212.77,->,211.78.222.180,DNS,80,Standard query,0x2cb7,A,csm.hk.as.criteo.net
+39,20190821,0.000106,101.13.116.240,->,211.78.222.179,DNS,85,Standard query,0xad22,A,edge.gycpi.b.yahoodns.net
+40,20190821,0.000108,118.233.212.77,->,211.78.222.180,DNS,80,Standard query,0x2cb7,A,csm.hk.as.criteo.net
+41,20190821,0.000111,211.78.222.180,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+42,20190821,0.000112,211.78.222.180,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+43,20190821,0.000121,101.9.69.148,->,211.78.222.179,DNS,81,Standard query,0x36a5,A,cdp.cloud.unity3d.com
+44,20190821,0.000126,101.13.197.9,->,10.254.79.197,DNS,87,Standard query,0x8ef4,A,googleads.g.doubleclick.net
+45,20190821,0.000129,211.78.222.180,->,101.9.65.145,DNS,192,Standard query response,0x8fd4,CNAME,googleapis.l.google.com
+46,20190821,0.000131,101.12.42.99,->,10.254.79.196,DNS,71,Standard query,0x19ca,A,rpc.znly.co
+47,20190821,0.000134,101.12.42.99,->,10.254.79.196,DNS,71,Standard query,0x7971,AAAA,rpc.znly.co
+48,20190821,0.000137,10.254.79.196,->,101.12.42.99,DNS,164,Standard query response,0x7971,A,aaa.com
+49,20190821,0.000139,10.254.79.196,->,101.12.42.99,DNS,87,Standard query response,0x19ca,A,35.225.143.169
+50,20190821,0.000140,211.78.222.179,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+51,20190821,0.000141,49.158.9.119,->,211.78.222.179,DNS,72,Standard query,0x1c1d,A,bt.cnscg.com
+52,20190821,0.000144,123.194.229.202,->,211.78.222.179,DNS,80,Standard query,0x4716,A,hub5emutr.sandai.net
+53,20190821,0.000148,123.194.229.202,->,211.78.222.179,DNS,80,Standard query,0x4716,A,hub5emutr.sandai.net
+54,20190821,0.000152,101.12.0.10,->,10.254.79.197,DNS,80,Standard query,0xe2dd,A,sns-paopao.iqiyi.com
+55,20190821,0.000155,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0x3816,AAAA,mweb1.scsb.com.tw
+56,20190821,0.000159,101.12.42.249,->,10.254.79.197,DNS,79,Standard query,0x0502,A,pubgm.helpshift.com
+57,20190821,0.000162,211.78.222.179,->,101.9.69.148,DNS,214,Standard query response,0x36a5,CNAME,prd-lender.cdp.internal.unity3d.com
+58,20190821,0.000163,10.254.79.197,->,101.13.197.9,DNS,128,Standard query response,0x8ef4,CNAME,pagead46.l.doubleclick.net
+59,20190821,0.000164,10.254.79.197,->,101.14.148.127,DNS,107,Standard query,0xa966,A,instagram.c10r.facebook.com
+60,20190821,0.000168,14.215.150.15,->,10.254.79.197,DNS,208,Standard query response,0xfea6,CNAME,log-reyun-com-1729828035.cn-north-1.elb.amazonaws.com.cn
+61,20190821,0.000170,211.78.222.179,->,49.158.9.119,DNS,88,Standard query response,0x1c1d,A,39.98.187.148
+62,20190821,0.000171,10.254.79.197,->,101.12.0.10,DNS,96,Standard query response,0xe2dd,A,118.26.32.14
+63,20190821,0.000172,10.254.79.197,->,101.12.42.249,DNS,207,Standard query response,0x0502,A,54.215.136.239
+64,20190821,0.000186,101.9.233.5,->,10.254.79.196,DNS,74,Standard query,0xaea0,AAAA,www.google.com
+65,20190821,0.000197,10.254.79.197,->,101.12.3.39,DNS,146,Standard query response,0xd6cd,A,www.google.com
+66,20190821,0.000203,10.254.79.197,->,101.14.148.127,DNS,205,Standard query response,0xe6d6,CNAME,im01-2-03.tw.juiker.net
+67,20190821,0.000205,106.1.229.132,->,211.78.222.179,DNS,75,Standard query,0x98fd,A,data.flurry.com
+68,20190821,0.000208,10.254.79.197,->,101.14.148.127,DNS,123,Standard query response,0xa966,A,31.13.87.52
+69,20190821,0.000209,10.254.79.196,->,101.9.233.5,DNS,102,Standard query response,0xaea0,AAAA,aaa.com
+70,20190821,0.000217,10.254.79.197,->,101.14.148.127,DNS,90,Standard query,0xd86a,A,kqhaheopbp
+71,20190821,0.000223,211.78.222.179,->,106.1.229.132,DNS,184,Standard query response,0x98fd,CNAME,flury-ycpi.gycpi.b.yahoodns.net
+72,20190821,0.000225,203.205.220.25,->,10.254.79.196,DNS,158,Standard query response,0x182f,A,aaa.com
+73,20190821,0.000226,10.254.79.197,->,101.14.148.127,DNS,91,Standard query,0x926c,A,bjgrweeaznw
+74,20190821,0.000229,10.254.79.197,->,101.14.148.127,DNS,165,Standard query response,0xd86a,A,aaa.com
+75,20190821,0.000235,211.78.222.180,->,180.176.69.191,DNS,219,Standard query response,0x7d1f,CNAME,gw.line.naver.jp
+76,20190821,0.000237,10.254.79.197,->,101.14.148.127,DNS,1276,Standard query response,0xcff8,A,aaa.com
+77,20190821,0.000238,101.9.83.152,->,211.78.222.180,DNS,77,Standard query,0x6616,A,fonts.gstatic.com
+78,20190821,0.000246,123.194.229.202,->,211.78.222.180,DNS,81,Standard query,0x4752,A,tracker.vanitycore.co
+79,20190821,0.000250,101.12.211.94,->,10.254.79.197,DNS,88,Standard query,0x7a9a,A,video.ftpe11-1.fna.fbcdn.net
+80,20190821,0.000253,123.194.229.202,->,211.78.222.180,DNS,81,Standard query,0x4752,A,tracker.vanitycore.co
+81,20190821,0.000256,180.176.69.191,->,211.78.222.180,DNS,76,Standard query,0x7d1f,A,ci.line-apps.com
+82,20190821,0.000259,211.78.222.180,->,115.165.217.156,DNS,103,Standard query response,0xe8c1,A,172.217.160.106
+83,20190821,0.000260,115.165.217.156,->,211.78.222.180,DNS,87,Standard query,0xe8c1,A,safebrowsing.googleapis.com
+84,20190821,0.000263,101.9.13.94,->,211.78.222.180,DNS,75,Standard query,0x75e0,A,www.gstatic.com
+85,20190821,0.000266,211.78.222.179,->,123.193.43.21,DNS,162,Standard query response,0x889e,A,aaa.com
+86,20190821,0.000270,175.96.67.55,->,10.254.79.197,DNS,81,Standard query,0x7797,A,csc.beap.bc.yahoo.com
+87,20190821,0.000275,10.254.79.197,->,101.12.211.94,DNS,104,Standard query response,0x7a9a,A,175.96.17.18
+88,20190821,0.000283,211.78.222.180,->,101.9.83.152,DNS,129,Standard query response,0x6616,CNAME,gstaticadssl.l.google.com
+89,20190821,0.000285,10.254.79.197,->,175.96.67.55,DNS,142,Standard query response,0x7797,A,aaa.com
+90,20190821,0.000287,101.9.98.114,->,211.78.222.179,DNS,85,Standard query,0x8d22,A,tpc.googlesyndication.com
+91,20190821,0.000290,211.78.222.180,->,101.9.13.94,DNS,91,Standard query response,0x75e0,A,172.217.27.131
+92,20190821,0.000296,103.224.200.121,->,211.78.222.180,DNS,91,Standard query,0x2d70,A,instagram.ftpe4-2.fna.fbcdn.net
+93,20190821,0.000300,123.194.229.202,->,211.78.222.180,DNS,78,Standard query,0xabac,A,tracker3.itzmx.com
+94,20190821,0.000302,49.158.9.119,->,211.78.222.180,DNS,72,Standard query,0x56fc,AAAA,bt.cnscg.com
+95,20190821,0.000319,10.254.79.197,->,101.14.148.127,DNS,100,Standard query,0x53b6,AAAA,is4-ssl.mzstatic.com
+96,20190821,0.000324,10.254.79.197,->,101.14.148.127,DNS,288,Standard query response,0x53b6,CNAME,is-ssl.mzstatic.com.itunes-apple.com.akadns.net
+97,20190821,0.000325,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0x5e94,AAAA,pic4.iqiyipic.com
+98,20190821,0.000329,10.254.79.197,->,101.14.148.127,DNS,110,Standard query,0x4a62,AAAA,gs-loc.ls-apple.com.akadns.net
+99,20190821,0.000332,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0xa462,AAAA,pic0.iqiyipic.com
+100,20190821,0.000339,183.192.201.90,->,10.254.79.196,DNS,161,Standard query response,0xed86,A,103.49.212.242
+1,20190821,0.000000,10.254.79.197,->,101.14.148.127,DNS,114,Standard query,0x255d,AAAA,configuration.apple.com.akadns.net
+2,20190821,0.000003,10.254.79.197,->,101.14.148.127,DNS,118,Standard query response,0x1ce6,CNAME,kg.connect.garena.com
+3,20190821,0.000004,211.78.222.179,->,101.13.116.240,DNS,150,Standard query response,0x5839,CNAME,dual-a-0001.a-msedge.net
+4,20190821,0.000005,10.254.79.197,->,101.14.148.127,DNS,122,Standard query response,0xf02f,A,aaa.com
+5,20190821,0.000006,10.254.79.197,->,101.14.148.127,DNS,146,Standard query response,0x9770,AAAA,aaa.com
+6,20190821,0.000006,101.13.116.240,->,211.78.222.179,DNS,92,Standard query,0x5839,A,bat-bing-com.a-0001.a-msedge.net
+7,20190821,0.000009,10.254.79.197,->,101.14.148.127,DNS,93,Standard query,0x972d,AAAA,lan-o.line.me
+8,20190821,0.000021,10.254.79.197,->,101.14.148.127,DNS,252,Standard query response,0x255d,CNAME,configuration.apple.com.edgekey.net
+9,20190821,0.000022,10.254.79.197,->,101.14.148.127,DNS,95,Standard query,0xdafa,A,zz.bdstatic.com
+10,20190821,0.000025,10.254.79.197,->,101.14.148.127,DNS,95,Standard query,0xbaff,AAAA,zz.bdstatic.com
+11,20190821,0.000026,10.254.79.197,->,101.14.148.127,DNS,160,Standard query response,0x972d,A,aaa.com
+12,20190821,0.000029,10.254.79.197,->,175.96.66.252,DNS,91,Standard query response,0x57a6,A,aaa.com
+13,20190821,0.000029,10.254.79.197,->,101.14.148.127,DNS,112,Standard query,0x10c6,A,instagram.ftpe11-1.fna.fbcdn.net
+14,20190821,0.000036,10.254.79.197,->,101.14.148.127,DNS,112,Standard query,0x5466,AAAA,instagram.ftpe11-1.fna.fbcdn.net
+15,20190821,0.000039,211.78.222.180,->,123.193.128.119,DNS,177,Standard query response,0xa60b,CNAME,dlied1.tc.qq.com
+16,20190821,0.000039,101.9.69.58,->,211.78.222.179,DNS,81,Standard query,0x884f,A,cdp.cloud.unity3d.com
+17,20190821,0.000041,101.10.6.251,->,211.78.222.180,DNS,82,Standard query,0xb164,A,mqtt-mini.facebook.com
+18,20190821,0.000052,101.9.169.93,->,10.254.79.197,DNS,79,Standard query,0xa418,AAAA,play.googleapis.com
+19,20190821,0.000054,10.254.79.197,->,101.14.148.127,DNS,139,Standard query response,0xdafa,CNAME,sslzz.jomodns.com
+20,20190821,0.000055,10.254.79.197,->,101.14.148.127,DNS,186,Standard query response,0xbaff,CNAME,sslzz.jomodns.com
+21,20190821,0.000056,10.254.79.197,->,101.14.148.127,DNS,199,Standard query response,0xb62c,A,aaa.com
+22,20190821,0.000056,101.15.250.141,->,10.254.79.196,DNS,79,Standard query,0x9fae,A,static.xx.fbcdn.net
+23,20190821,0.000070,101.9.65.145,->,211.78.222.180,DNS,78,Standard query,0x8fd4,A,www.googleapis.com
+24,20190821,0.000077,10.254.79.197,->,101.9.169.93,DNS,141,Standard query response,0xa418,CNAME,googleapis.l.google.com
+25,20190821,0.000079,101.15.210.208,->,10.254.79.197,DNS,86,Standard query,0xd84b,A,redirector.googlevideo.com
+26,20190821,0.000082,101.15.193.189,->,10.254.79.196,DNS,85,			Standard query,0x5d6a,AAAA,lh3.googleusercontent.com
+27,20190821,0.000085,118.233.212.77,->,211.78.222.179,DNS,80,		Standard query,0x2cb7,A,csm.hk.as.criteo.net
+28,20190821,0.000089,10.254.79.197,->,101.15.210.208,DNS,102,		Standard query response,0xd84b,A,172.217.24.14
+29,20190821,0.000091,10.254.79.197,->,101.14.148.127,DNS,140,Standard query response,0x5466,AAAA,aaa.com
+30,20190821,0.000091,211.78.222.179,->,101.9.69.58,DNS,214,Standard query response,0x884f,CNAME,prd-lender.cdp.internal.unity3d.com
+31,20190821,0.000092,10.254.79.197,->,101.14.148.127,DNS,128,Standard query response,0x10c6,A,175.96.17.33
+32,20190821,0.000093,10.254.79.197,->,17.253.206.8,DNS,92,Standard query,0x130e,AAAA,captive.g.aaplimg.com
+33,20190821,0.000096,10.254.79.196,->,101.15.250.141,DNS,118,Standard query response,0x9fae,CNAME,scontent.xx.fbcdn.net
+34,20190821,0.000096,211.78.222.180,->,101.10.6.251,DNS,127,Standard query response,0xb164,CNAME,mqtt-mini.c10r.facebook.com
+35,20190821,0.000097,123.193.43.21,->,211.78.222.179,DNS,117,Standard query,0x889e,SRV,_gre._tcp.gretunnel.com.dynamic.kbronet.com.tw
+36,20190821,0.000100,10.254.79.196,->,101.15.193.189,DNS,142,Standard query response,0x5d6a,CNAME,googlehosted.l.googleusercontent.com
+37,20190821,0.000102,211.78.222.179,->,101.13.116.240,DNS,149,Standard query response,0xad22,A,119.161.16.11
+38,20190821,0.000103,118.233.212.77,->,211.78.222.180,DNS,80,Standard query,0x2cb7,A,csm.hk.as.criteo.net
+39,20190821,0.000106,101.13.116.240,->,211.78.222.179,DNS,85,Standard query,0xad22,A,edge.gycpi.b.yahoodns.net
+40,20190821,0.000108,118.233.212.77,->,211.78.222.180,DNS,80,Standard query,0x2cb7,A,csm.hk.as.criteo.net
+41,20190821,0.000111,211.78.222.180,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+42,20190821,0.000112,211.78.222.180,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+43,20190821,0.000121,101.9.69.148,->,211.78.222.179,DNS,81,Standard query,0x36a5,A,cdp.cloud.unity3d.com
+44,20190821,0.000126,101.13.197.9,->,10.254.79.197,DNS,87,Standard query,0x8ef4,A,googleads.g.doubleclick.net
+45,20190821,0.000129,211.78.222.180,->,101.9.65.145,DNS,192,Standard query response,0x8fd4,CNAME,googleapis.l.google.com
+46,20190821,0.000131,101.12.42.99,->,10.254.79.196,DNS,71,Standard query,0x19ca,A,rpc.znly.co
+47,20190821,0.000134,101.12.42.99,->,10.254.79.196,DNS,71,Standard query,0x7971,AAAA,rpc.znly.co
+48,20190821,0.000137,10.254.79.196,->,101.12.42.99,DNS,164,Standard query response,0x7971,A,aaa.com
+49,20190821,0.000139,10.254.79.196,->,101.12.42.99,DNS,87,Standard query response,0x19ca,A,35.225.143.169
+50,20190821,0.000140,211.78.222.179,->,118.233.212.77,DNS,96,Standard query response,0x2cb7,A,182.161.72.146
+51,20190821,0.000141,49.158.9.119,->,211.78.222.179,DNS,72,Standard query,0x1c1d,A,bt.cnscg.com
+52,20190821,0.000144,123.194.229.202,->,211.78.222.179,DNS,80,Standard query,0x4716,A,hub5emutr.sandai.net
+53,20190821,0.000148,123.194.229.202,->,211.78.222.179,DNS,80,Standard query,0x4716,A,hub5emutr.sandai.net
+54,20190821,0.000152,101.12.0.10,->,10.254.79.197,DNS,80,Standard query,0xe2dd,A,sns-paopao.iqiyi.com
+55,20190821,0.000155,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0x3816,AAAA,mweb1.scsb.com.tw
+56,20190821,0.000159,101.12.42.249,->,10.254.79.197,DNS,79,Standard query,0x0502,A,pubgm.helpshift.com
+57,20190821,0.000162,211.78.222.179,->,101.9.69.148,DNS,214,Standard query response,0x36a5,CNAME,prd-lender.cdp.internal.unity3d.com
+58,20190821,0.000163,10.254.79.197,->,101.13.197.9,DNS,128,Standard query response,0x8ef4,CNAME,pagead46.l.doubleclick.net
+59,20190821,0.000164,10.254.79.197,->,101.14.148.127,DNS,107,Standard query,0xa966,A,instagram.c10r.facebook.com
+60,20190821,0.000168,14.215.150.15,->,10.254.79.197,DNS,208,Standard query response,0xfea6,CNAME,log-reyun-com-1729828035.cn-north-1.elb.amazonaws.com.cn
+61,20190821,0.000170,211.78.222.179,->,49.158.9.119,DNS,88,Standard query response,0x1c1d,A,39.98.187.148
+62,20190821,0.000171,10.254.79.197,->,101.12.0.10,DNS,96,Standard query response,0xe2dd,A,118.26.32.14
+63,20190821,0.000172,10.254.79.197,->,101.12.42.249,DNS,207,Standard query response,0x0502,A,54.215.136.239
+64,20190821,0.000186,101.9.233.5,->,10.254.79.196,DNS,74,Standard query,0xaea0,AAAA,www.google.com
+65,20190821,0.000197,10.254.79.197,->,101.12.3.39,DNS,146,Standard query response,0xd6cd,A,www.google.com
+66,20190821,0.000203,10.254.79.197,->,101.14.148.127,DNS,205,Standard query response,0xe6d6,CNAME,im01-2-03.tw.juiker.net
+67,20190821,0.000205,106.1.229.132,->,211.78.222.179,DNS,75,Standard query,0x98fd,A,data.flurry.com
+68,20190821,0.000208,10.254.79.197,->,101.14.148.127,DNS,123,Standard query response,0xa966,A,31.13.87.52
+69,20190821,0.000209,10.254.79.196,->,101.9.233.5,DNS,102,Standard query response,0xaea0,AAAA,aaa.com
+70,20190821,0.000217,10.254.79.197,->,101.14.148.127,DNS,90,Standard query,0xd86a,A,kqhaheopbp
+71,20190821,0.000223,211.78.222.179,->,106.1.229.132,DNS,184,Standard query response,0x98fd,CNAME,flury-ycpi.gycpi.b.yahoodns.net
+72,20190821,0.000225,203.205.220.25,->,10.254.79.196,DNS,158,Standard query response,0x182f,A,aaa.com
+73,20190821,0.000226,10.254.79.197,->,101.14.148.127,DNS,91,Standard query,0x926c,A,bjgrweeaznw
+74,20190821,0.000229,10.254.79.197,->,101.14.148.127,DNS,165,Standard query response,0xd86a,A,aaa.com
+75,20190821,0.000235,211.78.222.180,->,180.176.69.191,DNS,219,Standard query response,0x7d1f,CNAME,gw.line.naver.jp
+76,20190821,0.000237,10.254.79.197,->,101.14.148.127,DNS,1276,Standard query response,0xcff8,A,aaa.com
+77,20190821,0.000238,101.9.83.152,->,211.78.222.180,DNS,77,Standard query,0x6616,A,fonts.gstatic.com
+78,20190821,0.000246,123.194.229.202,->,211.78.222.180,DNS,81,Standard query,0x4752,A,tracker.vanitycore.co
+79,20190821,0.000250,101.12.211.94,->,10.254.79.197,DNS,88,Standard query,0x7a9a,A,video.ftpe11-1.fna.fbcdn.net
+80,20190821,0.000253,123.194.229.202,->,211.78.222.180,DNS,81,Standard query,0x4752,A,tracker.vanitycore.co
+81,20190821,0.000256,180.176.69.191,->,211.78.222.180,DNS,76,Standard query,0x7d1f,A,ci.line-apps.com
+82,20190821,0.000259,211.78.222.180,->,115.165.217.156,DNS,103,Standard query response,0xe8c1,A,172.217.160.106
+83,20190821,0.000260,115.165.217.156,->,211.78.222.180,DNS,87,Standard query,0xe8c1,A,safebrowsing.googleapis.com
+84,20190821,0.000263,101.9.13.94,->,211.78.222.180,DNS,75,Standard query,0x75e0,A,www.gstatic.com
+85,20190821,0.000266,211.78.222.179,->,123.193.43.21,DNS,162,Standard query response,0x889e,A,aaa.com
+86,20190821,0.000270,175.96.67.55,->,10.254.79.197,DNS,81,Standard query,0x7797,A,csc.beap.bc.yahoo.com
+87,20190821,0.000275,10.254.79.197,->,101.12.211.94,DNS,104,Standard query response,0x7a9a,A,175.96.17.18
+88,20190821,0.000283,211.78.222.180,->,101.9.83.152,DNS,129,Standard query response,0x6616,CNAME,gstaticadssl.l.google.com
+89,20190821,0.000285,10.254.79.197,->,175.96.67.55,DNS,142,Standard query response,0x7797,A,aaa.com
+90,20190821,0.000287,101.9.98.114,->,211.78.222.179,DNS,85,Standard query,0x8d22,A,tpc.googlesyndication.com
+91,20190821,0.000290,211.78.222.180,->,101.9.13.94,DNS,91,Standard query response,0x75e0,A,172.217.27.131
+92,20190821,0.000296,103.224.200.121,->,211.78.222.180,DNS,91,Standard query,0x2d70,A,instagram.ftpe4-2.fna.fbcdn.net
+93,20190821,0.000300,123.194.229.202,->,211.78.222.180,DNS,78,Standard query,0xabac,A,tracker3.itzmx.com
+94,20190821,0.000302,49.158.9.119,->,211.78.222.180,DNS,72,Standard query,0x56fc,AAAA,bt.cnscg.com
+95,20190821,0.000319,10.254.79.197,->,101.14.148.127,DNS,100,Standard query,0x53b6,AAAA,is4-ssl.mzstatic.com
+96,20190821,0.000324,10.254.79.197,->,101.14.148.127,DNS,288,Standard query response,0x53b6,CNAME,is-ssl.mzstatic.com.itunes-apple.com.akadns.net
+97,20190821,0.000325,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0x5e94,AAAA,pic4.iqiyipic.com
+98,20190821,0.000329,10.254.79.197,->,101.14.148.127,DNS,110,Standard query,0x4a62,AAAA,gs-loc.ls-apple.com.akadns.net
+99,20190821,0.000332,10.254.79.197,->,101.14.148.127,DNS,97,Standard query,0xa462,AAAA,pic0.iqiyipic.com
+100,20190821,0.000339,183.192.201.90,->,10.254.79.196,DNS,161,Standard query response,0xed86,A,103.49.212.242
