@@ -32,5 +32,5 @@ def main():
 			print('請輸入正確指令')
 
 if __name__ == '__main__':
-	with DB(user='root', password='7788aswxdec', db='backendtest') as db:
+	with DB(user='root', password='', db='backendtest') as db:
 		main()
