@@ -20,7 +20,15 @@ def sourceIP(db):
 			print('| '+row[0]+' | '+row[1]+' | %5s '%row[2]+'| %15s '%row[3]+'| %10s '%row[4]+'| %15s '%row[5]+'| %15s '%row[6]+'| %56s |'%row[7])
 		print('+----------+----------+-------+-----------------+------------+-----------------+-----------------+----------------------------------------------------------+')
 		print('第 %d 頁 / 共 %d 頁' % (page, pages))
-		if page == 1:
+		if pages == 1:
+			while True:
+				turnpage = input('請輸入q回到menu:')
+				if turnpage == 'q':
+					page += 1
+					break
+				else:
+					print('請輸入正確指令')
+		elif page == 1:
 			while True:
 				turnpage = input('請輸入d至下一頁:')
 				if turnpage == 'd':
@@ -41,7 +49,7 @@ def sourceIP(db):
 					print('請輸入正確指令')
 		elif page == pages:
 			while True:
-				turnpage = input('請輸入a至上一頁或輸入q回到menu')
+				turnpage = input('請輸入a至上一頁或輸入q回到menu:')
 				if turnpage == 'a':
 					page -= 1
 					break
@@ -72,7 +80,15 @@ def timeRange(db):
 			print('| '+row[0]+' | '+row[1]+' | %5s '%row[2]+'| %15s '%row[3]+'| %10s '%row[4]+'| %15s '%row[5]+'| %15s '%row[6]+'| %56s |'%row[7])
 		print('+----------+----------+-------+-----------------+------------+-----------------+-----------------+----------------------------------------------------------+')
 		print('第 %d 頁 / 共 %d 頁' % (page, pages))
-		if page == 1:
+		if pages == 1:
+			while True:
+				turnpage = input('請輸入q回到menu:')
+				if turnpage == 'q':
+					page += 1
+					break
+				else:
+					print('請輸入正確指令')
+		elif page == 1:
 			while True:
 				turnpage = input('請輸入d至下一頁:')
 				if turnpage == 'd':
@@ -93,7 +109,7 @@ def timeRange(db):
 					print('請輸入正確指令')
 		elif page == pages:
 			while True:
-				turnpage = input('請輸入a至上一頁或輸入q回到menu')
+				turnpage = input('請輸入a至上一頁或輸入q回到menu:')
 				if turnpage == 'a':
 					page -= 1
 					break
@@ -123,7 +139,15 @@ def fQDN(db):
 			print('| '+row[0]+' | '+row[1]+' | %5s '%row[2]+'| %15s '%row[3]+'| %10s '%row[4]+'| %15s '%row[5]+'| %15s '%row[6]+'| %56s |'%row[7])
 		print('+----------+----------+-------+-----------------+------------+-----------------+-----------------+----------------------------------------------------------+')
 		print('第 %d 頁 / 共 %d 頁' % (page, pages))
-		if page == 1:
+		if pages == 1:
+			while True:
+				turnpage = input('請輸入q回到menu:')
+				if turnpage == 'q':
+					page += 1
+					break
+				else:
+					print('請輸入正確指令')
+		elif page == 1:
 			while True:
 				turnpage = input('請輸入d至下一頁:')
 				if turnpage == 'd':
@@ -144,7 +168,7 @@ def fQDN(db):
 					print('請輸入正確指令')
 		elif page == pages:
 			while True:
-				turnpage = input('請輸入a至上一頁或輸入q回到menu')
+				turnpage = input('請輸入a至上一頁或輸入q回到menu:')
 				if turnpage == 'a':
 					page -= 1
 					break
